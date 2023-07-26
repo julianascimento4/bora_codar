@@ -1,4 +1,4 @@
- <h1 align="center">__#boraCodar um Card de Produto __</h1>
+ <h1 align="center">#boraCodar um Card de Produto</h1>
 
  <h3 align="center">A funcionalidade do projeto é demonstrar um produto através de uma imagem estática e uma imagem animada rotativa em 360º ao clicar no botão. Além disso, também contém o detalhamento do produto, como: o valor e código do produto. </h3>
 
