@@ -10,6 +10,3 @@
  <h3 align="center"> Esse projeto foi desenvolvido com </h3>
  <p align="center"> __HTML | CSS | JavaScript | Git | GitHub | Figma__</p>
 
-<br>
-
-<h2 align="center"> [Acesse meu perfil no Linkedin aqui](https://www.linkedin.com/in/julianascimento4/) </h2>
