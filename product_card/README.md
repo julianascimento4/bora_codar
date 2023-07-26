@@ -12,4 +12,4 @@
 
 <br>
 
-<h2 align="center"> [Acesse meu perfil no Linkedin aqui](https://www.linkedin.com/in/tthayza-oliveira/) </h2>
+<h2 align="center"> [Acesse meu perfil no Linkedin aqui](https://www.linkedin.com/in/julianascimento4/) </h2>
